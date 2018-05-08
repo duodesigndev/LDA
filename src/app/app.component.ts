@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'duo-root',
+  selector: 'lda-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
